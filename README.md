@@ -3,7 +3,7 @@
 
 > [!WARNING]
 > This plugin was made just for my own needs which means i'm not changing nothing on it, (only if needed).
-> If you want to improve this absolutely can fork it (it's unlicensed!)
+> If you want to improve this you can absolutely fork it (it's foss magic!)
 
 This is a *ridiculously* simple Neovim plugin to make temporary notes
 
